@@ -1,0 +1,27 @@
+.header {
+    background-color: black;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 140px;
+    padding-right: 140px;
+}
+
+
+img {
+    width: 200px;
+
+
+}
+
+.header a {
+    color: white;
+    font-size: 18px;
+    margin-left: 30px;
+    text-decoration: none;
+}
+
+.header a:hover {
+    color: cyan
+}
