@@ -42,7 +42,9 @@
     border-radius: 0px 0px 8px 8px;
     position: absolute;
     bottom: 0;
-
+    display: flex;
+    align-items: center;
+    justify-content: center;
     margin-right: 5px;
 
 }
@@ -50,4 +52,8 @@
 .btn-cart:hover {
     background-color: rgb(150, 235, 80);
     align-items: center;
+}
+
+.btn-cart .btn-text {
+    margin-right: 20px;
 }
