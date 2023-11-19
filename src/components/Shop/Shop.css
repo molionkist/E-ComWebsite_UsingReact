@@ -15,3 +15,7 @@
         grid-template-columns: repeat(2, 1fr);
     }
 }
+
+.cart-container {
+    background-color: rgb(243, 205, 158);
+}
